@@ -1,0 +1,38 @@
+# Local secrets
+.env
+
+# Downloaded files
+downloads/
+spike_downloads/
+
+# Browser session data
+monash_session/
+
+# Error screenshots
+error_screenshots/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Document files
+*.docx
+ProQuest.docx
