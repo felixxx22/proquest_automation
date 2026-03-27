@@ -40,3 +40,7 @@ ProQuest.docx
 spike/
 Stock Exchange/
 
+# scripts 
+run_stock_exchange.ps1
+run_tests.ps1
+run_tests.sh
